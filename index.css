@@ -1,0 +1,13 @@
+#heading{
+    color: red;
+}
+
+#heading:hover{
+    color: blue;
+}
+
+#paragraph{
+    color: grey;
+    font: arial;
+    font-size: 16px;
+}
